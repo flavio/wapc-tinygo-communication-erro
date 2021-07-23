@@ -1,6 +1,9 @@
 This repo contains the source code needed to reproduce a communication issue
 between a waPC host and a Wasm module produced by TinyGo 0.19.0
 
+Related issue: https://github.com/wapc/wapc-guest-tinygo/issues/6
+
+
 This is the structure of the repository:
 
 * `wapc-host`: a simple waPC host written in Rust, using the wasmtime provider
