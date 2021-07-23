@@ -1,3 +1,6 @@
+> **WARNING:** this has been fixed with the latest commit - look at the history
+
+
 This repo contains the source code needed to reproduce a communication issue
 between a waPC host and a Wasm module produced by TinyGo 0.19.0
 
