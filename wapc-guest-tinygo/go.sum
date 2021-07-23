@@ -1,2 +1,2 @@
-github.com/wapc/wapc-guest-tinygo v0.3.0 h1:nBbzqjntOSA4jXamwhfCDQhlOtfneGNPxRG0dI5MZVE=
-github.com/wapc/wapc-guest-tinygo v0.3.0/go.mod h1:Jssn+ovE+Y2oueUgVeLyGZf2ipUPngVnWTNPM8zmhn0=
+github.com/flavio/wapc-guest-tinygo v0.3.1-0.20210723140531-955f64ec53dc h1:M2+hpVUTI94QYOmrbgTQovWNGCp9LE+rjZGiPo038s8=
+github.com/flavio/wapc-guest-tinygo v0.3.1-0.20210723140531-955f64ec53dc/go.mod h1:Jssn+ovE+Y2oueUgVeLyGZf2ipUPngVnWTNPM8zmhn0=
